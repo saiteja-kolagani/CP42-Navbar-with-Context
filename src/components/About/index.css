@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.about-image {
+  width: 200px;
+}
+.about-bg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 92.5vh;
+}
+.heading {
+  text-align: center;
+  color: #1e293b;
+}

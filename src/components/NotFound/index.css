@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.not-found-bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+.not-found-image {
+  width: 350px;
+}
